@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">GithubUsers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="follower_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="user_success">User Successfuly added</string>
+    <string name="user_deleted">User Successfuly Deleted</string>
+    <string name="reminder_title">Reminder</string>
+    <string name="github_appp">Github App</string>
+    <string name="alarm_enabled">Alarm has been enabled</string>
+    <string name="alarm_canceled">Alarm has been canceled</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminder_time">Reminder at 9:00 AM</string>
+    <string name="lets_find_user_popular">Lets find user popular on github</string>
+    <string name="user">User</string>
+    <string name="follower_placeholder">100</string>
+    <string name="following_placeholder">100</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="username">username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="_9999">9999</string>
+    <string name="repositories">Repositories</string>
+    <string name="no_location">No Location</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="dicoding" translatable="false">Dicoding</string>
+    <string name="no_company">No Company</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="no_bio">No Bio</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="github_users" translatable="false">GithubUsers</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="favbutton" translatable="false">favButton</string>
+    <string name="title_favorite">Favorite</string>
+
+</resources>
